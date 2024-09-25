@@ -2,8 +2,7 @@
 
 Submitted by: Stella Dey
 
-This web app: **insert description**
-
+This web app: is built with love for the tech community
 Time spent: 1 hour spent in total
 
 ## Required Features
